@@ -1,4 +1,4 @@
-# Dashboard about penguins
+# Dashboard about BikeCrash
 
 
 ## Data
